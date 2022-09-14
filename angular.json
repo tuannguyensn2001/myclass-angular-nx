@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "myclass-angular": "apps/myclass-angular",
+    "myclass-angular-e2e": "apps/myclass-angular-e2e",
+    "web-auth-feature-login": "libs/web/auth/feature/login",
+    "web-auth-feature-register": "libs/web/auth/feature/register",
+    "web-shell-feature": "libs/web/shell/feature"
+  }
+}
